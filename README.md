@@ -12,3 +12,6 @@ Use the following layout:
         - user_name
            - project1
            - project2
+           
+# Tutorial
+https://tour.go-zh.org/welcome/1
