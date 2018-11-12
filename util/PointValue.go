@@ -1,4 +1,4 @@
-package main
+package util
 
 import (
 	"fmt"
@@ -17,7 +17,7 @@ func AbsFunc(v Vertex) float64 {
 	return math.Sqrt(v.X*v.X + v.Y*v.Y)
 }
 
-func main() {
+func test() {
 	v := Vertex{3, 4}
 	fmt.Println(v.Abs())
 	fmt.Println(AbsFunc(v))
