@@ -15,3 +15,6 @@ Use the following layout:
            
 # Tutorial
 https://tour.go-zh.org/welcome/1
+
+# vndr  go packages managers
+https://github.com/LK4D4/vndR/
