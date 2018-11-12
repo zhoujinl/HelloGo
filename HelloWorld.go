@@ -6,6 +6,8 @@ import (
 )
 
 func main() {
-	handle.Add(10, 20)
+	var z int 
+	z = util.Add(10, 20)
+	fmt.Println(z)
 	fmt.Println("Hello world!")
 }
